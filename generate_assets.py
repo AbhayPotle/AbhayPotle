@@ -82,63 +82,64 @@ create_cyberpunk_image("HORROR ENGINE", "horror_thumb.png", width=800, height=45
 create_cyberpunk_image("NEON BLOCKS", "game_thumb.png", width=800, height=450, text_color=(200, 0, 255), subheading="AI HAND CONTROL")
 
 # New Assets
-create_badge("VIBE CODING", "vibe_coding.png", color=(255, 0, 255))
 create_cyberpunk_image("SYSTEM SPECS", "specs_panel.png", width=1000, height=300, text_color=(0, 255, 0), subheading="3D HOLOGRAPHIC SCAN COMPLETE")
 
-def create_3d_chart(filename):
-    width = 800
-    height = 500
-    bg_color = (5, 5, 10)
+def create_cinematic_dashboard(filename):
+    width = 1200
+    height = 600
+    bg_color = (2, 4, 8)
     img = Image.new('RGB', (width, height), color=bg_color)
-    draw = ImageDraw.Draw(img)
+    draw = ImageDraw.Draw(img, 'RGBA')
 
-    # Grid floor (Pseudo 3D)
-    for i in range(0, heights := 200, 20):
-        draw.line([(0, 300+i), (width, 300+i)], fill=(0, 50, 50), width=1)
+    # Perspective Grid Floor
+    for i in range(0, 300, 20):
+        y = 400 + i
+        alpha = int(255 * (1 - i/300))
+        draw.line([(0, y), (width, y)], fill=(0, 255, 255, alpha), width=1)
     
-    # Perspective lines
-    center_x = width // 2
-    for i in range(-400, 500, 100):
-        draw.line([(center_x, 100), (center_x + i * 4, 600)], fill=(0, 50, 50), width=1)
+    for i in range(-600, 1800, 100):
+        alpha = 100
+        draw.line([(width//2, 200), (i, 600)], fill=(0, 255, 255, alpha), width=1)
 
-    # 3D Bar Data
-    data = [("DATA SCI", 80, (0, 200, 255)), ("GAME DEV", 60, (200, 0, 255)), ("WEB/HORROR", 70, (255, 50, 50)), ("VIBE", 95, (0, 255, 0))]
-    bar_width = 80
-    spacing = 120
-    start_x = 150
-    base_y = 350
+    # Glowing Abstract Waves (Pseudo 3D)
+    import math
+    for x in range(0, width, 5):
+        for layer in range(3):
+            y_offset = math.sin(x * 0.01 + layer) * 50
+            y = 250 + y_offset + (layer * 20)
+            color = [(0, 150, 255, 50), (255, 0, 255, 50), (0, 255, 150, 50)][layer]
+            draw.ellipse([x-2, y-2, x+2, y+2], fill=color)
 
-    try:
-        font = ImageFont.truetype("arial.ttf", 20)
-    except:
-        font = ImageFont.load_default()
+    # Vertical Digital Pillars
+    pillars = [(200, 150, (0, 200, 255)), (400, 250, (255, 0, 255)), (600, 200, (0, 255, 0)), (800, 300, (255, 100, 0)), (1000, 180, (255, 255, 0))]
+    for px, ph, pcol in pillars:
+        # Glow
+        for g in range(5, 20, 5):
+            draw.rectangle([px-g, 400-ph-g, px+40+g, 400+g], outline=(pcol[0], pcol[1], pcol[2], 30), width=1)
+        # Main Pillar
+        draw.rectangle([px, 400-ph, px+40, 400], fill=(pcol[0], pcol[1], pcol[2], 180))
+        # Top Flare
+        draw.ellipse([px-10, 400-ph-10, px+50, 400-ph+10], fill=(255, 255, 255, 100))
 
-    for idx, (label, value, color) in enumerate(data):
-        x = start_x + idx * spacing
-        h = value * 2.5 # Scale
-        
-        # Draw 3D Bar (Front)
-        draw.rectangle([x, base_y - h, x + bar_width, base_y], fill=color, outline=color)
-        # Top
-        draw.polygon([(x, base_y - h), (x + 20, base_y - h - 10), (x + bar_width + 20, base_y - h - 10), (x + bar_width, base_y - h)], fill=(min(255, color[0]+50), min(255, color[1]+50), min(255, color[2]+50)))
-        # Side
-        draw.polygon([(x + bar_width, base_y - h), (x + bar_width + 20, base_y - h - 10), (x + bar_width + 20, base_y - 10), (x + bar_width, base_y)], fill=(max(0, color[0]-50), max(0, color[1]-50), max(0, color[2]-50)))
+    # Floating UI elements (Abstract)
+    for i in range(10):
+        rx, ry = 50 + i*110, 50 + (i%3)*40
+        draw.rectangle([rx, ry, rx+80, ry+30], outline=(0, 255, 255, 100), width=1)
+        draw.line([(rx+5, ry+15), (rx+75, ry+15)], fill=(0, 255, 255, 150), width=2)
 
-        # Label
-        draw.text((x, base_y + 10), label, font=font, fill=(200, 200, 200))
-        # Value
-        draw.text((x + 10, base_y - h - 35), f"{value}%", font=font, fill=color)
+    # Scanline Overlay
+    for y in range(0, height, 4):
+        draw.line([(0, y), (width, y)], fill=(255, 255, 255, 10), width=1)
 
-    # Title
-    try:
-        title_font = ImageFont.truetype("arial.ttf", 40)
-    except:
-        title_font = ImageFont.load_default()
-    draw.text((50, 30), "PRODUCTION EFFICIENCY LOG", font=title_font, fill=(255, 255, 255))
-    
+    # Vignette
+    for i in range(100):
+        alpha = int(150 * (i/100))
+        draw.rectangle([0,0,width,height], outline=(0,0,0,alpha), width=100-i)
+
     if not os.path.exists("assets"):
         os.makedirs("assets")
     img.save(f"assets/{filename}")
     print(f"Generated {filename}")
 
-create_3d_chart("analysis_graph.png")
+create_cinematic_dashboard("analysis_dashboard.png")
+create_badge("VIBE CODING", "vibe_coding.png", color=(255, 0, 255))
