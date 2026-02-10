@@ -64,15 +64,31 @@
 
 ---
 
-### 🧬 HOLOGRAPHIC SYSTEM ANALYSIS (STATS)
+### 🧬 HOLOGRAPHIC PRODUCTION LOGS
 
 <div align="center">
   <img src="assets/specs_panel.png" width="100%" alt="System Specs" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayPotle&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPotle&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Langs" />
 </div>
+
+<br />
+
+| **🎬 PRODUCTION METRICS** | **📊 DATA STREAM** | **📝 DIRECTOR'S COMMENTARY** |
+| :--- | :--- | :--- |
+| **TOTAL FRAMES RENDERED**<br>(Total Contributions) | `271` | *High output velocity identified.* |
+| **PRODUCTION STREAK**<br>(Current Streak) | `11 DAYS` 🔥 | *Consistent daily commits detected.* |
+| **LONGEST SHOOT**<br>(Max Streak) | `11 DAYS` | *Momentum is building.* |
+| **STUDIO START DATE**<br>(Joined) | `AUG 01, 2024` | *New wave director.* |
+
+<br />
+
+> **SYSTEM ANALYSIS:**
+>
+> "Subject **Abhay Potle** demonstrates a versatile coding range. The portfolio shifts seamlessly from the *precision* of **Healthcare Analytics** (Python/Pandas) to the *chaos* of **Interactive Horror** (JS/Audio API).
+>
+> **Signature Style:** Immersive, user-centric experiences driven by complex backend logic.
+> **Current Trajectory:** Establishing dominance in **Computer Vision** and **Generative AI**."
+
+<br />
 
 <br />
 
