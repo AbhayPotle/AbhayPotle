@@ -84,3 +84,61 @@ create_cyberpunk_image("NEON BLOCKS", "game_thumb.png", width=800, height=450, t
 # New Assets
 create_badge("VIBE CODING", "vibe_coding.png", color=(255, 0, 255))
 create_cyberpunk_image("SYSTEM SPECS", "specs_panel.png", width=1000, height=300, text_color=(0, 255, 0), subheading="3D HOLOGRAPHIC SCAN COMPLETE")
+
+def create_3d_chart(filename):
+    width = 800
+    height = 500
+    bg_color = (5, 5, 10)
+    img = Image.new('RGB', (width, height), color=bg_color)
+    draw = ImageDraw.Draw(img)
+
+    # Grid floor (Pseudo 3D)
+    for i in range(0, heights := 200, 20):
+        draw.line([(0, 300+i), (width, 300+i)], fill=(0, 50, 50), width=1)
+    
+    # Perspective lines
+    center_x = width // 2
+    for i in range(-400, 500, 100):
+        draw.line([(center_x, 100), (center_x + i * 4, 600)], fill=(0, 50, 50), width=1)
+
+    # 3D Bar Data
+    data = [("DATA SCI", 80, (0, 200, 255)), ("GAME DEV", 60, (200, 0, 255)), ("WEB/HORROR", 70, (255, 50, 50)), ("VIBE", 95, (0, 255, 0))]
+    bar_width = 80
+    spacing = 120
+    start_x = 150
+    base_y = 350
+
+    try:
+        font = ImageFont.truetype("arial.ttf", 20)
+    except:
+        font = ImageFont.load_default()
+
+    for idx, (label, value, color) in enumerate(data):
+        x = start_x + idx * spacing
+        h = value * 2.5 # Scale
+        
+        # Draw 3D Bar (Front)
+        draw.rectangle([x, base_y - h, x + bar_width, base_y], fill=color, outline=color)
+        # Top
+        draw.polygon([(x, base_y - h), (x + 20, base_y - h - 10), (x + bar_width + 20, base_y - h - 10), (x + bar_width, base_y - h)], fill=(min(255, color[0]+50), min(255, color[1]+50), min(255, color[2]+50)))
+        # Side
+        draw.polygon([(x + bar_width, base_y - h), (x + bar_width + 20, base_y - h - 10), (x + bar_width + 20, base_y - 10), (x + bar_width, base_y)], fill=(max(0, color[0]-50), max(0, color[1]-50), max(0, color[2]-50)))
+
+        # Label
+        draw.text((x, base_y + 10), label, font=font, fill=(200, 200, 200))
+        # Value
+        draw.text((x + 10, base_y - h - 35), f"{value}%", font=font, fill=color)
+
+    # Title
+    try:
+        title_font = ImageFont.truetype("arial.ttf", 40)
+    except:
+        title_font = ImageFont.load_default()
+    draw.text((50, 30), "PRODUCTION EFFICIENCY LOG", font=title_font, fill=(255, 255, 255))
+    
+    if not os.path.exists("assets"):
+        os.makedirs("assets")
+    img.save(f"assets/{filename}")
+    print(f"Generated {filename}")
+
+create_3d_chart("analysis_graph.png")
