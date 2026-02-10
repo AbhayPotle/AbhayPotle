@@ -62,11 +62,7 @@
   <img src="assets/vibe_coding.png" width="200" alt="Vibe Coding" />
 </div>
 
-### 🧬 SITUATIONAL ANALYSIS
 
-<div align="center">
-  <img src="assets/analysis_dashboard.png" width="100%" alt="3D Situation Analysis" />
-</div>
 
 <br />
 
