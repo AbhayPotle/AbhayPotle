@@ -58,14 +58,20 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <br />
+  <img src="assets/vibe_coding.png" width="200" alt="Vibe Coding" />
 </div>
 
 ---
 
-### 🏆 BOX OFFICE STATS
+### 🧬 HOLOGRAPHIC SYSTEM ANALYSIS (STATS)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayPotle&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="GitHub Stats" />
+  <img src="assets/specs_panel.png" width="100%" alt="System Specs" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhayPotle&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPotle&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Langs" />
 </div>
 
 <br />
