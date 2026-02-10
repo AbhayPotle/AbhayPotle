@@ -72,9 +72,12 @@
 
 <br />
 
-<div align="center">
-  <img src="assets/analysis_graph.png" width="100%" alt="3D Analysis Graph" />
-</div>
+| **🎬 PRODUCTION METRICS** | **📊 DATA STREAM** | **📝 DIRECTOR'S COMMENTARY** |
+| :--- | :--- | :--- |
+| **TOTAL FRAMES RENDERED**<br>(Total Contributions) | `271` | *High output velocity identified.* |
+| **PRODUCTION STREAK**<br>(Current Streak) | `11 DAYS` 🔥 | *Consistent daily commits detected.* |
+| **LONGEST SHOOT**<br>(Max Streak) | `11 DAYS` | *Momentum is building.* |
+| **STUDIO START DATE**<br>(Joined) | `AUG 01, 2024` | *New wave director.* |
 
 <br />
 
