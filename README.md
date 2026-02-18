@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3> 🎬 DIRECTED BY ABHAY POTLE </h3>
+  
   <p>
     <b> DATA SCIENTIST | ML ENGINEER | GAME DEVELOPER </b>
   </p>
