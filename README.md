@@ -4,9 +4,10 @@
 </div>
 
 <div align="center">
+<h3> ABHAY POTLE</h3>
   
   <p>
-    <b>ABHAY POTLE
+    <b>
       DATA SCIENTIST | ML ENGINEER | GAME DEVELOPER </b>
   </p>
   <a href="https://github.com/AbhayPotle">
