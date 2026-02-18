@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="ABHAY POTLE - CINEMATIC PROFILE" />
+  <img src="assets/banner.png" width="100%" alt="- CINEMATIC PROFILE" />
 </div>
 
 <div align="center">
