@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  
+  <h3> Directed by Abhay Potle
   <p>
     <b> DATA SCIENTIST | ML ENGINEER | GAME DEVELOPER </b>
   </p>
