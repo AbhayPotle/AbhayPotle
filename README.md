@@ -40,7 +40,7 @@
 
 | **🎬 PATIENT FLOW** | **👻 THE HORROR ENGINE** |
 | :---: | :---: |
-| <img src="assets/data_thumb.png" width="350" /> | <img src="https://static.wikia.nocookie.net/horrormovies/images/9/9f/Annabelle_Portrait.jpg" width="350" /> |
+| <img src="assets/data_thumb.png" width="350" /> | <<img width="350" alt="Screenshot 2026-02-07 225458" src="https://github.com/user-attachments/assets/18452d42-69d9-4f23-b7e7-6bbf07833227" /> |
 | **GENRE: HEALTHCARE AI** | **GENRE: INTERACTIVE WEB** |
 | *Hospital Admissions Analysis* | *Procedural Scare System* |
 | `Pandas` `EDA` `Python` | `JavaScript` `Web Audio API` |
