@@ -44,7 +44,7 @@
 | **GENRE: HEALTHCARE AI** | **GENRE: INTERACTIVE WEB** |
 | *Hospital Admissions Analysis* | *Procedural Scare System* |
 | `Pandas` `EDA` `Python` | `JavaScript` `Web Audio API` |
-| [🔴 WATCH NOW](#) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Horror-scenes) |
+| [🔴 WATCH NOW](https://github.com/AbhayPotle/Hospital-Admissions-Patient-Flow) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Horror-scenes) |
 
 <br />
 
