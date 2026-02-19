@@ -54,7 +54,7 @@
 | **GENRE: AI / GAMING** | **GENRE: AI / PRIVACY** |
 | *AI Hand-Gesture Control* | *Sensitive Info Redaction* |
 | `MediaPipe` `OpenCV` `CSS 3D` | `TF.js` `React` `Vibe Coding` |
-| [🔴 WATCH NOW](#) | [🔴 WATCH NOW](https://github.com/AbhayPotle/AI-ERASER) |
+| [🔴 WATCH NOW](https://github.com/AbhayPotle/block-game-) | [🔴 WATCH NOW](https://github.com/AbhayPotle/AI-ERASER) |
 
 ---
 
