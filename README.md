@@ -38,13 +38,23 @@
 
 ### 🍿 NOW PLAYING (FEATURE PROJECTS)
 
-| **🎬 PATIENT FLOW** | **👻 THE HORROR ENGINE** | **🕹️ NEON BLOCKS** |
-| :---: | :---: | :---: |
-| <img src="assets/data_thumb.png" width="250" /> | <img src="assets/horror_thumb.png" width="250" /> | <img src="assets/game_thumb.png" width="250" /> |
-| **GENRE: HEALTHCARE AI** | **GENRE: INTERACTIVE WEB** | **GENRE: AI / GAMING** |
-| *Hospital Admissions Analysis* | *Procedural Scare System* | *AI Hand-Gesture Control* |
-| `Pandas` `EDA` `Python` | `JavaScript` `Web Audio API` | `MediaPipe` `OpenCV` `CSS 3D` |
-| [🔴 WATCH NOW](#) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Horror-scenes) | [🔴 WATCH NOW](#) |
+| **🎬 PATIENT FLOW** | **👻 THE HORROR ENGINE** |
+| :---: | :---: |
+| <img src="assets/data_thumb.png" width="350" /> | <img src="assets/horror_thumb.png" width="350" /> |
+| **GENRE: HEALTHCARE AI** | **GENRE: INTERACTIVE WEB** |
+| *Hospital Admissions Analysis* | *Procedural Scare System* |
+| `Pandas` `EDA` `Python` | `JavaScript` `Web Audio API` |
+| [🔴 WATCH NOW](#) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Horror-scenes) |
+
+<br />
+
+| **🕹️ NEON BLOCKS** | **🛡️ AI ERASER** |
+| :---: | :---: |
+| <img src="assets/game_thumb.png" width="350" /> | <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2070&auto=format&fit=crop" width="350" /> |
+| **GENRE: AI / GAMING** | **GENRE: AI / PRIVACY** |
+| *AI Hand-Gesture Control* | *Sensitive Info Redaction* |
+| `MediaPipe` `OpenCV` `CSS 3D` | `TF.js` `React` `Vibe Coding` |
+| [🔴 WATCH NOW](#) | [🔴 WATCH NOW](https://github.com/AbhayPotle/AI-ERASER) |
 
 ---
 
