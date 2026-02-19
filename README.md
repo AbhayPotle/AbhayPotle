@@ -40,8 +40,7 @@
 
 | **🎬 PATIENT FLOW** | **👻 THE HORROR ENGINE** |
 | :---: | :---: |
-| <img width="350" alt="image" src="https://github.com/user-attachments/assets/617bff9a-fb33-4e7a-80a8-fb94f37b9eda" /> |
-| <img width="350" alt="Screenshot 2026-02-07 225458" src="https://github.com/user-attachments/assets/18452d42-69d9-4f23-b7e7-6bbf07833227" /> |
+| <img width="350" alt="image" src="https://github.com/user-attachments/assets/617bff9a-fb33-4e7a-80a8-fb94f37b9eda" /> |<img width="350" alt="Screenshot 2026-02-07 225458" src="https://github.com/user-attachments/assets/18452d42-69d9-4f23-b7e7-6bbf07833227" /> |
 | **GENRE: HEALTHCARE AI** | **GENRE: INTERACTIVE WEB** |
 | *Hospital Admissions Analysis* | *Procedural Scare System* |
 | `Pandas` `EDA` `Python` | `JavaScript` `Web Audio API` |
