@@ -7,7 +7,7 @@
   
   <p>
     <b>
-      DATA SCIENTIST | ML ENGINEER | GAME DEVELOPER </b>
+      DATA ANALYST | ML ENGINEER | GAME DEVELOPER </b>
   </p>
   <a href="https://github.com/AbhayPotle">
     <img src="https://img.shields.io/badge/PRODUCTION-ACTIVE-success?style=for-the-badge&logo=github" alt="Production Status" />
