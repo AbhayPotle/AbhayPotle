@@ -54,35 +54,15 @@
 <br />
 
 ---
-
-### 🍽️ NEW RELEASE (FLAGSHIP PROJECT)
-
-> **EXT. HYDERABAD CITYSCAPE - NIGHT**
->
-> *Street lights glow. The aroma of biryani fills the air. A user scrolls endlessly, unsure where to eat.*
->
-> **NARRATOR (V.O.)**
-> "In a city full of flavors, finding the perfect place is chaos..."
->
-> *Suddenly — CraveCompass AI activates.*
->
-> **NARRATOR (V.O.)**
-> "Until intelligence meets taste."
->
-> *Restaurants appear. Ratings, menus, navigation — all in one seamless flow.*
->
-> **ABHAY**
-> "I didn’t just build a food app… I built an experience."
-
 ---
 
-| **🍽️ CRAVECOMPASS AI** | **🚀 NEXT INNOVATION** |
-| :---: | :---: |
-| <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" /> | <img width="350" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" /> |
-| **GENRE: AI / FOOD TECH** | **GENRE: COMING SOON** |
-| *AI-Powered Food Discovery Platform* | *Your upcoming innovation* |
-| `React` `Google Maps API` `AI Logic` `Vibe Coding` | `TBD` |
-| [🔴 WATCH NOW](https://github.com/AbhayPotle/CraveCompass) | 🔜 Coming Soon |
+| **🍽️ CRAVECOMPASS AI** | 
+| :---: |
+| <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" /> |
+| **GENRE: AI / FOOD TECH** | 
+| *AI-Powered Food Discovery Platform* | 
+| `React` `Google Maps API` `AI Logic` `Vibe Coding` | 
+| [🔴 WATCH NOW](https://github.com/AbhayPotle/CraveCompass) | 
 
 ---
 
