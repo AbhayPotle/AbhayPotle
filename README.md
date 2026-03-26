@@ -33,13 +33,13 @@
 
 ### 🍿 NOW PLAYING (FEATURE PROJECTS)
 
-| **🎬 PATIENT FLOW** | **👻 THE HORROR ENGINE** |
-| :---: | :---: |
-| <img width="350" src="https://github.com/user-attachments/assets/617bff9a-fb33-4e7a-80a8-fb94f37b9eda" /> |<img width="350" src="https://github.com/user-attachments/assets/18452d42-69d9-4f23-b7e7-6bbf07833227" /> |
-| **GENRE: HEALTHCARE AI** | **GENRE: INTERACTIVE WEB** |
-| *Hospital Admissions Analysis* | *Procedural Scare System* |
+| **🍽️ CRAVECOMPASS AI** | **🎬 PATIENT FLOW** | **👻 THE HORROR ENGINE** |
+| :---: | :---: | :---: |
+| <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" /> | <img width="350" src="https://github.com/user-attachments/assets/617bff9a-fb33-4e7a-80a8-fb94f37b9eda" /> |<img width="350" src="https://github.com/user-attachments/assets/18452d42-69d9-4f23-b7e7-6bbf07833227" /> |
+| **GENRE: AI / FOOD TECH** |  **GENRE: HEALTHCARE AI** | **GENRE: INTERACTIVE WEB** |
+| *AI-Powered Food Discovery Platform*| *Hospital Admissions Analysis* | *Procedural Scare System* |
 | `Pandas` `EDA` `Python` | `JavaScript` `Web Audio API` |
-| [🔴 WATCH NOW](https://github.com/AbhayPotle/Hospital-Admissions-Patient-Flow) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Horror-scenes) |
+| [🔴 WATCH NOW](https://github.com/AbhayPotle/CraveCompass) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Hospital-Admissions-Patient-Flow) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Horror-scenes) |
 
 <br />
 
@@ -48,20 +48,10 @@
 | <img src="assets/game_thumb.png" width="350" /> | <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2070&auto=format&fit=crop" width="350" /> |
 | **GENRE: AI / GAMING** | **GENRE: AI / PRIVACY** |
 | *AI Hand-Gesture Control* | *Sensitive Info Redaction* |
-| `MediaPipe` `OpenCV` `CSS 3D` | `TF.js` `React` `Vibe Coding` |
+| `React` `Google Maps API` `AI Logic` `Vibe Coding` |  `MediaPipe` `OpenCV` `CSS 3D` | `TF.js` `React` `Vibe Coding` |
 | [🔴 WATCH NOW](https://github.com/AbhayPotle/block-game-) | [🔴 WATCH NOW](https://github.com/AbhayPotle/AI-ERASER) |
 
 <br />
-
-| **🍽️ CRAVECOMPASS AI** | 
-| :---: |
-| <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" /> |
-| **GENRE: AI / FOOD TECH** | 
-| *AI-Powered Food Discovery Platform* | 
-| `React` `Google Maps API` `AI Logic` `Vibe Coding` | 
-| [🔴 WATCH NOW](https://github.com/AbhayPotle/CraveCompass) | 
-
----
 
 ### 🎞️ BEHIND THE SCENES (TECH STACK)
 
