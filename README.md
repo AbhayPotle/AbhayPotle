@@ -53,9 +53,6 @@
 
 <br />
 
----
----
-
 | **🍽️ CRAVECOMPASS AI** | 
 | :---: |
 | <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" /> |
