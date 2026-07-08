@@ -22,7 +22,7 @@
 > *A chaotic stream of raw data floods the screen. Suddenly, structure emerges. Algorithms weave through the noise, organizing chaos into insight.*
 >
 > **NARRATOR (V.O.)**
-> "In a world drowning in data, one engineer crafts intelligence. From the depths of **Computer Vision** to the predictive power of **Healthcare Analytics**, Abhay Potle turns static numbers into kinetic action."
+> "In a world drowning in data, one engineer crafts intelligence. From the depths of **Computer Vision** to the predictive power of **Machine Learning**, Abhay Potle turns static numbers into kinetic action."
 >
 > *Cut to: A workstation. Screens glowing with Python scripts and Neural Networks.*
 >
@@ -33,13 +33,13 @@
 
 ### 🍿 NOW PLAYING (FEATURE PROJECTS)
 
-| **🍽️ CRAVECOMPASS AI** | **🎬 PATIENT FLOW** | **👻 THE HORROR ENGINE** |
+| **🍽️ CRAVECOMPASS AI** | **🎓 PLACEMENT AI** | **🎮 ARCADEVERSE** |
 | :---: | :---: | :---: |
-| <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" /> | <img width="350" src="https://github.com/user-attachments/assets/617bff9a-fb33-4e7a-80a8-fb94f37b9eda" /> |<img width="350" src="https://github.com/user-attachments/assets/18452d42-69d9-4f23-b7e7-6bbf07833227" /> |
-| **GENRE: AI / FOOD TECH** |  **GENRE: HEALTHCARE AI** | **GENRE: INTERACTIVE WEB** |
-| *AI-Powered Food Discovery Platform*| *Hospital Admissions Analysis* | *Procedural Scare System* |
-| `React` `Google Maps API` `AI Logic` `Vibe Coding`| `Pandas` `EDA` `Python` | `JavaScript` `Web Audio API` |
-| [🔴 WATCH NOW](https://github.com/AbhayPotle/CraveCompass) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Hospital-Admissions-Patient-Flow) | [🔴 WATCH NOW](https://github.com/AbhayPotle/Horror-scenes) |
+| <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" /> | <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/STUDENT-PLACEMENT-PREDICTION/main/assets/ai_placement_wallpaper.png" /> | <img width="350" src="https://raw.githubusercontent.com/AbhayPotle/ARCADE-GAMES/main/client/public/cyber_lobby_bg.png" /> |
+| **GENRE: AI / FOOD TECH** |  **GENRE: MACHINE LEARNING** | **GENRE: MULTIPLAYER GAMING** |
+| *AI-Powered Food Discovery Platform*| *3D ML Career Prediction Dashboard* | *Interactive Cyberpunk Game Hub* |
+| `React` `Google Maps API` `AI Logic` `Vibe Coding`| `Python` `Scikit-Learn` `Three.js` `Vibe Coding` | `Next.js` `Socket.io` `TypeScript` `Web Audio` |
+| [🔴 WATCH NOW](https://github.com/AbhayPotle/CraveCompass) | [🔴 WATCH NOW](https://github.com/AbhayPotle/STUDENT-PLACEMENT-PREDICTION) | [🔴 WATCH NOW](https://github.com/AbhayPotle/ARCADE-GAMES) |
 
 <br />
 
