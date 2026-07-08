@@ -27,7 +27,6 @@
 ### 🚀 Professional Summary
 
 Results-driven B.Tech Computer Science & Engineering (Data Science) student with a **9.03/10.0 CGPA**. Proven capabilities in developing client-side edge inference models, predictive machine learning pipelines, and full-stack real-time interactive dashboards.
-* 🎓 **Academic Rigor**: Co-authored and published a peer-reviewed research paper in **IJSAT** (Impact Factor: 9.88).
 * 💼 **Industry Exposure**: Completed a 8-week intensive **AI & ML Internship** at **NIELIT Virtual Academy** (Govt. of India).
 * 🏆 **Competitive Edge**: Active participant in national hackathons (Unstop RIFT '26).
 
@@ -40,13 +39,13 @@ Results-driven B.Tech Computer Science & Engineering (Data Science) student with
   <tr>
     <th width="33%">🎓 STUDENT PLACEMENT AI</th>
     <th width="33%">🛡️ AI ERASER</th>
-    <th width="33%">🤝 CREWMATE (RESEARCH)</th>
+    <th width="33%">🍽️ CRAVECOMPASS AI</th>
   </tr>
   <!-- Row 1 Images -->
   <tr>
     <td><img src="https://raw.githubusercontent.com/AbhayPotle/STUDENT-PLACEMENT-PREDICTION/main/assets/ai_placement_wallpaper.png" width="100%" style="border-radius: 6px;" /></td>
     <td><img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2070&auto=format&fit=crop" width="100%" style="border-radius: 6px;" /></td>
-    <td><img src="https://images.unsplash.com/photo-1521791136368-1a8be04e99cf?q=80&w=2069&auto=format&fit=crop" width="100%" style="border-radius: 6px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" width="100%" style="border-radius: 6px;" /></td>
   </tr>
   <!-- Row 1 Details -->
   <tr>
@@ -73,33 +72,6 @@ Results-driven B.Tech Computer Science & Engineering (Data Science) student with
       <a href="https://github.com/AbhayPotle/AI-ERASER"><b>💻 VIEW CODEBASE</b></a>
     </td>
     <td>
-      <b>Category: Rec Systems / Academic</b><br>
-      <i>Collaborative Filtering, SQL Databases</i>
-      <hr>
-      <ul>
-        <li>Tasker marketplace matching hirers with taskers.</li>
-        <li>Dual-dashboard panel utilizing <b>collaborative filtering</b> recommendation.</li>
-        <li>Published in peer-reviewed journal <b>IJSAT</b> (Impact Factor: 9.88).</li>
-      </ul>
-      <a href="https://github.com/AbhayPotle/AbhayPotle"><b>💻 VIEW CODEBASE</b></a>
-    </td>
-  </tr>
-  
-  <!-- Row 2 Headers -->
-  <tr>
-    <th>🍽️ CRAVECOMPASS AI</th>
-    <th>🎮 ARCADEVERSE</th>
-    <th>🕹️ NEON BLOCKS</th>
-  </tr>
-  <!-- Row 2 Images -->
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/AbhayPotle/CraveCompass/main/public/screenshot.png" width="100%" style="border-radius: 6px;" /></td>
-    <td><img src="https://raw.githubusercontent.com/AbhayPotle/ARCADE-GAMES/main/client/public/cyber_lobby_bg.png" width="100%" style="border-radius: 6px;" /></td>
-    <td><img src="https://raw.githubusercontent.com/AbhayPotle/AbhayPotle/main/assets/game_thumb.png" width="100%" style="border-radius: 6px;" /></td>
-  </tr>
-  <!-- Row 2 Details -->
-  <tr>
-    <td>
       <b>Category: Full-Stack Application</b><br>
       <i>React, Next.js, Google Maps, Location Services</i>
       <hr>
@@ -110,6 +82,22 @@ Results-driven B.Tech Computer Science & Engineering (Data Science) student with
       </ul>
       <a href="https://github.com/AbhayPotle/CraveCompass"><b>💻 VIEW CODEBASE</b></a>
     </td>
+  </tr>
+  
+  <!-- Row 2 Headers -->
+  <tr>
+    <th width="33%">🎮 ARCADEVERSE</th>
+    <th width="33%">🕹️ NEON BLOCKS</th>
+    <th width="33%"></th>
+  </tr>
+  <!-- Row 2 Images -->
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AbhayPotle/ARCADE-GAMES/main/client/public/cyber_lobby_bg.png" width="100%" style="border-radius: 6px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/AbhayPotle/AbhayPotle/main/assets/game_thumb.png" width="100%" style="border-radius: 6px;" /></td>
+    <td></td>
+  </tr>
+  <!-- Row 2 Details -->
+  <tr>
     <td>
       <b>Category: WebSockets / Games Engineering</b><br>
       <i>Next.js, socket.io, Web Audio API, Canvas</i>
@@ -132,6 +120,7 @@ Results-driven B.Tech Computer Science & Engineering (Data Science) student with
       </ul>
       <a href="https://github.com/AbhayPotle/block-game-"><b>💻 VIEW CODEBASE</b></a>
     </td>
+    <td></td>
   </tr>
 </table>
 
@@ -144,13 +133,6 @@ Results-driven B.Tech Computer Science & Engineering (Data Science) student with
 * **Data Analytics & Tools**: Pandas, NumPy, Matplotlib, Power BI, Exploratory Data Analysis (EDA), Feature Engineering, Git/GitHub, Jupyter Notebooks, VS Code
 * **Web Technologies**: HTML5, CSS3, JavaScript, Next.js, React, Node.js, WebSockets (Socket.io), REST APIs, HTML5 Canvas, Web Audio API
 
----
-
-### 📰 Publications & Research
-
-* **"CrewMate – Connecting You with Local Taskers"** | *International Journal of Science, Engineering and Technology (IJSAT)*
-  * **Citation**: Vol. 16, Issue 2, Apr–Jun 2025 | DOI: [10.71097/IJSAT.v16.i2.4376](https://doi.org/10.71097/IJSAT.v16.i2.4376)
-  * **Scope**: Designed and documented an intelligent local matchmaking marketplace using ML-driven ranking pipelines.
 
 ---
 
