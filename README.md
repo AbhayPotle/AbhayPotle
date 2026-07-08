@@ -28,7 +28,7 @@
 
 Results-driven B.Tech Computer Science & Engineering (Data Science) student with a **9.03/10.0 CGPA**. Proven capabilities in developing client-side edge inference models, predictive machine learning pipelines, and full-stack real-time interactive dashboards.
 * 🎓 **Academic Rigor**: Co-authored and published a peer-reviewed research paper in **IJSAT** (Impact Factor: 9.88).
-* 💼 **Industry Exposure**: Completed a 6-week intensive **AI & ML Internship** at **NIELIT Virtual Academy** (Govt. of India).
+* 💼 **Industry Exposure**: Completed a 8-week intensive **AI & ML Internship** at **NIELIT Virtual Academy** (Govt. of India).
 * 🏆 **Competitive Edge**: Active participant in national hackathons (Unstop RIFT '26).
 
 ---
